@@ -1,0 +1,4 @@
+- Hi, I'm @Runarry.
+- I'm a Game Designer, and i'm interested in everything about game development.
+- I’m currently learning Game Graphics and Game Audio.
+- My e-mail : sleep.rotten.banana@gmail.com
